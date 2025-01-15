@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` *
-  - `Function` *
-  - `Boolean` *
-  - `Number` *
-  - `BigInt` *
-  - `String` *
-  - `Symbol` *
-  - `Infinity` +
-  - `NaN` +
-  - `undefined` +
-  - `null` +
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
+  - `null`: 🎓 known
   - `this`
   - `instanceof`
-  - `...spread` *
-  - `...rest` +
-  - `typeof` *
+  - `...spread`: 🖐️ used
+  - `...rest`: 🎓 known
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
-  - Iterators *
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -41,7 +41,7 @@
   - `yield`
   - `await`
   - Template literal
-  - Strict mode ~
+  - Strict mode: 👂 heard
   - Hoisting
   - `delete`
   - `in`
@@ -59,40 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` *
-  - `while` *
-  - `do..while` *
-  - `for` *
-  - `for..in` *
-  - `for..of` *
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` ~
-  - `break` +
+  - `throw`: 👂 heard
+  - `break`: 🎓 known
   - `continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch` ~
+  - `switch`: 👂 heard
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function *
+  - Arrow function: 🖐️ used
   - Async function
-  - Function declaration *
-  - Function expression *
-  - Default parameters ~
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 👂 heard
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array` *
-  - `Map` +
-  - `Set` +
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - `WeakMap`
   - `WeakSet`
   - Typed arrays

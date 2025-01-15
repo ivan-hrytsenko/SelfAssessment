@@ -4,18 +4,18 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm *
-  - Syntax *
-  - Semantics +
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🎓 known
   - Abstraction
-  - Paradigm ~
-  - Programm *
-  - Programming paradigm ~
-  - Programming language *
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
   - Contract
-  - Module ~
-  - Library ~
-  - Package ~
+  - Module: 👂 heard
+  - Library: 👂 heard
+  - Package: 👂 heard
   - Component
   - Framework
   - Platform
@@ -23,7 +23,7 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering ~
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value *
-  - Identifier *
-  - Variable *
-  - Constant *
-  - Scalar *
-  - Literal *
-  - Expression *
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function *
-  - Procedure +
-  - Method ~
-  - Class ~
+  - Function: 🖐️ used
+  - Procedure: 🎓 known
+  - Method: 👂 heard
+  - Class: 👂 heard
   - Prototype
   - Event
-  - Type *
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope +
-  - Code block *
-  - Conditions *
-  - Loops *
-  - Assignment *
+  - Lexical scope: 🎓 known
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
-  - Namespaces ~
+  - Namespaces: 👂 heard
   - Call stack
-  - Naming conventions +
-  - Coding conventions +
-  - Camel case *
-  - Snake case *
-  - Kebab case +
-  - Trailing commas +
-  - Return early ~
+  - Naming conventions: 🎓 known
+  - Coding conventions: 🎓 known
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🎓 known
+  - Trailing commas: 🎓 known
+  - Return early: 👂 heard
   - Fail-fast
 - Types
-  - Primitive types *
-  - Reference types *
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,12 +81,12 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature ~
-  - Argument *
-  - Parameter *
-  - Pure function ~
+  - Signature: 👂 heard
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 👂 heard
   - Lambda expression
-  - Side effects ~
+  - Side effects: 👂 heard
   - Closure
   - Partial application
   - Currying
@@ -105,34 +105,34 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array *
-  - Structure *
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object *
-  - Collection *
-  - Set +
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🎓 known
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
-  - Stack ~
+  - Stack: 👂 heard
   - Deque
-  - Tree ~
+  - Tree: 👂 heard
   - Graph
-  - Iterator *
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON ~
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
-  - DNS ~
+  - DNS: 👂 heard
   - CDN
   - CORS
   - IPv4
@@ -142,33 +142,33 @@
   - URN
   - URI
 - Process and tools
-  - Compiler ~
+  - Compiler: 👂 heard
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter *
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine ~
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring *
-  - Code review ~
+  - Refactoring: 🖐️ used
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git *
-  - Github *
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
-  - GCC ~
+  - GCC: 👂 heard
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers ~
+  - Drivers: 👂 heard
   - Kernel
   - Ring
   - Virtual memory
-  - File system ~
-  - Linux ~
-  - Unix ~
+  - File system: 👂 heard
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS ~
-  - Windows ~
+  - MacOS: 👂 heard
+  - Windows: 👂 heard
   - Real-time OS
   - Embedded OS
 - Standards
