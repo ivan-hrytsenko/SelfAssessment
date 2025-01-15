@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `Object` *
+  - `Function` *
+  - `Boolean` *
+  - `Number` *
+  - `BigInt` *
+  - `String` *
+  - `Symbol` *
+  - `Infinity` +
+  - `NaN` +
+  - `undefined` +
+  - `null` +
   - `this`
   - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `...spread` *
+  - `...rest` +
+  - `typeof` *
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators *
   - Async generator
   - Async iterator
   - Chaining
@@ -41,7 +41,7 @@
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode ~
   - Hoisting
   - `delete`
   - `in`
@@ -59,40 +59,40 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` *
+  - `while` *
+  - `do..while` *
+  - `for` *
+  - `for..in` *
+  - `for..of` *
   - `for await`
-  - `throw`
-  - `break`
+  - `throw` ~
+  - `break` +
   - `continue`
   - `import`
   - `export`
   - `label`
   - `try..catch`
-  - `switch`
+  - `switch` ~
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function *
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration *
+  - Function expression *
+  - Default parameters ~
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array` *
+  - `Map` +
+  - `Set` +
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
