@@ -4,18 +4,18 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
+  - Algorithm *
+  - Syntax *
+  - Semantics +
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm ~
+  - Programm *
+  - Programming paradigm ~
+  - Programming language *
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module ~
+  - Library ~
+  - Package ~
   - Component
   - Framework
   - Platform
@@ -23,7 +23,7 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering ~
   - Decomposition
   - Control flow
   - Data flow
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value *
+  - Identifier *
+  - Variable *
+  - Constant *
+  - Scalar *
+  - Literal *
+  - Expression *
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
+  - Function *
+  - Procedure +
+  - Method ~
+  - Class ~
   - Prototype
   - Event
-  - Type
+  - Type *
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Lexical scope +
+  - Code block *
+  - Conditions *
+  - Loops *
+  - Assignment *
   - Regular expression
   - Interface
-  - Namespaces
+  - Namespaces ~
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
+  - Naming conventions +
+  - Coding conventions +
+  - Camel case *
+  - Snake case *
+  - Kebab case +
+  - Trailing commas +
+  - Return early ~
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types *
+  - Reference types *
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,12 +81,12 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Signature ~
+  - Argument *
+  - Parameter *
+  - Pure function ~
   - Lambda expression
-  - Side effects
+  - Side effects ~
   - Closure
   - Partial application
   - Currying
@@ -105,34 +105,34 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array *
+  - Structure *
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
+  - Object *
+  - Collection *
+  - Set +
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
-  - Stack
+  - Stack ~
   - Deque
-  - Tree
+  - Tree ~
   - Graph
-  - Iterator
+  - Iterator *
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON ~
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS ~
   - CDN
   - CORS
   - IPv4
@@ -142,33 +142,33 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler ~
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter *
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine ~
   - Register-based VM
   - Stack-based VM
   - Containerization
   - Debugger
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring *
+  - Code review ~
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git *
+  - Github *
   - Docker
   - Kubernetes
-  - GCC
+  - GCC ~
   - LLVM
 - Antipatterns
   - Magic numbers
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers ~
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system ~
+  - Linux ~
+  - Unix ~
   - BSD
-  - MacOS
-  - Windows
+  - MacOS ~
+  - Windows ~
   - Real-time OS
   - Embedded OS
 - Standards
